@@ -34,7 +34,11 @@ const rafliPutra = {
     database : ["PostgreSQL", "MySQL", "Prisma"],
     devops   : ["Docker", "Git"],
   }
+
+  funFact : "I debug with console.log() 😄 — no shame",
+  lifeGoal : "Write clean code, touch grass sometimes 🌿",
 };
+
 ```
 
 </td>
