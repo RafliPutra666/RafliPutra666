@@ -18,27 +18,6 @@
 
 <img align="right" height="170" src="https://i.pinimg.com/736x/6c/b9/1d/6cb91d75f1c513e7c07a7a0cef1ff51b.jpg" style="border-radius: 12px;" />
 
-### 👨‍💻 About Me
-
-```ts
-const rafli = {
-  name: "Rafli Putra",
-  username: "RafliPutra666",
-  role: "Full-Stack Developer",
-  location: "Indonesia 🇮🇩",
-  status: "Always learning, always building 🚀",
-  education: "Computer Science Student",
-  currentlyWorkingOn: [
-    "NestJS REST APIs",
-    "Next.js Web Apps",
-    "Docker & PostgreSQL",
-  ],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-};
-```
-
-<br clear="right"/>
-
 ---
 
 ### 🛠️ Tech Stack
