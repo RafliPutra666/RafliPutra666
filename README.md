@@ -35,12 +35,8 @@ const rafliPutra = {
     frontend : ["Next.js", "React", "TypeScript", "Tailwind"],
     backend  : ["NestJS", "AdonisJS", "Laravel", "Express"],
     database : ["PostgreSQL", "MySQL", "Prisma"],
-    devops   : ["Docker", "Git", "Linux"],
-  },
-
-  currentlyBuilding : "REST API with NestJS + Docker 🐳",
-  funFact : "I debug with console.log() 😄 — no shame",
-  lifeGoal : "Write clean code, touch grass sometimes 🌿",
+    devops   : ["Docker", "Git"],
+  }
 };
 ```
 
@@ -50,7 +46,7 @@ const rafliPutra = {
 <br/>
 
 <img
-  src="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/main/toji.jpg"
+  src="https://id.pinterest.com/pin/76279787434671722"
   alt="RafliPutra666"
   width="230"
   style="border-radius:16px; border: 2px solid #6d28d9; box-shadow: 0 0 20px #7c3aed;"
@@ -118,15 +114,6 @@ const rafliPutra = {
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafliPutra666&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
 
 ### 🌐 Connect With Me
 
