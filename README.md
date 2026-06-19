@@ -119,19 +119,19 @@ const rafliPutra = {
 
 <div align="center">
 
-<a href="mailto:your@gmail.com">
+<a href="rafliputra1227@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/rafli-putra-bb0721249/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://instagram.com/yourprofile">
+<a href="https://www.instagram.com/mhmmdrfliii__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://wa.me/yournum">
+<a href="https://wa.me/87748398126">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
@@ -141,19 +141,6 @@ const rafliPutra = {
 
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/output/pacman-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4c1d95,50:312e81,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⚔️&fontSize=28&fontColor=c4b5fd&animation=fadeIn" width="100%" />
