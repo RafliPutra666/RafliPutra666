@@ -1,93 +1,106 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:364f7e,100:414868&height=200&section=header&text=Rafli%20Putra&fontSize=60&fontColor=a9b1d6&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=58&descColor=7aa2f7&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1e1b4b,60:312e81,100:4c1d95&height=220&section=header&text=Rafli%20Putra&fontSize=72&fontColor=c4b5fd&fontAlignY=40&desc=⚔️%20Full-Stack%20Developer%20•%20Indonesia%20🇮🇩&descAlignY=62&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/RafliPutra666">
-    <img src="https://komarev.com/ghpvc/?username=RafliPutra666&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=RafliPutra666&style=for-the-badge&color=6d28d9&labelColor=0d1117&label=PROFILE+VIEWS" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Lives-Indonesia-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="600" valign="top" style="background-color: #1a1b27; border: 1px solid #414868; border-radius: 12px; padding: 20px; color: #a9b1d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-        <h3 style="color: #7aa2f7; margin-top: 0; display: flex; align-items: center; gap: 8px;">
-          🚀 About Me
-        </h3>
-        <p style="line-height: 1.6; color: #c0caf5;">
-          Hello! I am a passionate <strong>Full-Stack Developer</strong> from Indonesia. I love building clean, scalable, and efficient web applications. Continuously learning new technologies and sharpening my skills every day.
-        </p>
-        <ul style="padding-left: 20px; color: #9ece6a; line-height: 1.6;">
-          <li>🛠️ <span style="color: #c0caf5;">Currently working with modern JavaScript/TypeScript ecosystems.</span></li>
-          <li>⚡ <span style="color: #c0caf5;">Fun fact: Love coding with a clean and dark theme setup.</span></li>
-        </ul>
-      </td>
-      <td width="20"></td>
-      <td valign="top">
-        <img height="185" src="https://i.pinimg.com/736x/6c/b9/1d/6cb91d75f1c513e7c07a7a0cef1ff51b.jpg" style="border-radius: 12px; border: 2px solid #7aa2f7; object-fit: cover;" alt="Toji Fushiguro" />
-      </td>
-    </tr>
-  </table>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20SOMETHING%20COOL-6d28d9?style=for-the-badge&labelColor=0d1117&logo=lightning&logoColor=c4b5fd" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-4c1d95?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=c4b5fd" />
 </div>
 
 <br/>
 
 ---
 
-### 🛠️ Tech Stack
+<table>
+<tr>
+<td width="55%" valign="top">
 
-**Frontend**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" title="HTML5"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" title="CSS3"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" title="React"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" title="Next.js"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind CSS" title="Tailwind CSS"/>
-</div>
+### 🧬 About Me
 
-<br/>
+```typescript
+const rafliPutra = {
+  username  : "RafliPutra666",
+  role      : "Full-Stack Developer",
+  location  : "Indonesia 🇮🇩",
+  education : "Computer Science Student",
 
-**Backend**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" title="Node.js"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="38" alt="AdonisJS" title="AdonisJS"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="38" alt="NestJS" title="NestJS"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP" title="PHP"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" alt="Laravel" title="Laravel"/>
-</div>
+  stack: {
+    frontend : ["Next.js", "React", "TypeScript", "Tailwind"],
+    backend  : ["NestJS", "AdonisJS", "Laravel", "Express"],
+    database : ["PostgreSQL", "MySQL", "Prisma"],
+    devops   : ["Docker", "Git", "Linux"],
+  },
+
+  currentlyBuilding : "REST API with NestJS + Docker 🐳",
+  funFact : "I debug with console.log() 😄 — no shame",
+  lifeGoal : "Write clean code, touch grass sometimes 🌿",
+};
+```
+
+</td>
+<td width="45%" valign="top" align="center">
 
 <br/>
 
-**Database & DevOps**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" title="PostgreSQL"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" title="MySQL"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="38" alt="Prisma" title="Prisma"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" title="Docker"/>
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git"/>
+<img
+  src="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/main/toji.jpg"
+  alt="RafliPutra666"
+  width="230"
+  style="border-radius:16px; border: 2px solid #6d28d9; box-shadow: 0 0 20px #7c3aed;"
+/>
+
+> *"The only programmer who never made a mistake*
+> *is the one who never wrote code."*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+**⚡ Frontend**
+
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+
+<br/><br/>
+
+**🔧 Backend**
+
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+
+<br/><br/>
+
+**🗄️ Database & DevOps**
+
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+
 </div>
 
 ---
@@ -95,53 +108,66 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafliPutra666&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyo-night&locale=en&hide_border=false&border_radius=10" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafliPutra666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyo-night&hide_border=false&border_radius=10" height="160" alt="Top Languages" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RafliPutra666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=a78bfa&border_radius=12" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafliPutra666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=a78bfa&langs_count=7&border_radius=12" height="165" />
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafliPutra666&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=c4b5fd&currStreakLabel=a78bfa&border_radius=12" height="165" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafliPutra666&theme=tokyo-night&hide_border=false&border_radius=10" height="160" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RafliPutra666&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
-<div align="left">
-  <a href="mailto:your@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/yournum" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" />
-  </a>
-  <a href="https://discord.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
-  </a>
+<div align="center">
+
+<a href="mailto:your@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://instagram.com/yourprofile">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://wa.me/yournum">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/yourid">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
+</a>
+
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
-<br/>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/output/pacman-contribution-graph.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/RafliPutra666/RafliPutra666/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
+</div>
 
-<br/>
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:364f7e,100:1a1b27&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4c1d95,50:312e81,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⚔️&fontSize=28&fontColor=c4b5fd&animation=fadeIn" width="100%" />
 </div>
