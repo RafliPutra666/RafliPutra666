@@ -5,9 +5,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/RafliPutra666">
-    <img src="https://komarev.com/ghpvc/?username=RafliPutra666&style=for-the-badge&color=6d28d9&labelColor=0d1117&label=PROFILE+VIEWS" />
-  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20SOMETHING%20COOL-6d28d9?style=for-the-badge&labelColor=0d1117&logo=lightning&logoColor=c4b5fd" />
   &nbsp;
@@ -29,11 +26,11 @@ const rafliPutra = {
   username  : "RafliPutra666",
   role      : "Full-Stack Developer",
   location  : "Indonesia 🇮🇩",
-  education : "Computer Science Student",
+  major : "informatics engineering",
 
   stack: {
     frontend : ["Next.js", "React", "TypeScript", "Tailwind"],
-    backend  : ["NestJS", "AdonisJS", "Laravel", "Express"],
+    backend  : ["NestJS", "AdonisJS", "Laravel"],
     database : ["PostgreSQL", "MySQL", "Prisma"],
     devops   : ["Docker", "Git"],
   }
@@ -84,7 +81,6 @@ const rafliPutra = {
 <a href="#"><img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -95,7 +91,6 @@ const rafliPutra = {
 <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 
 </div>
 
@@ -135,12 +130,10 @@ const rafliPutra = {
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://discord.com/users/yourid">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
-</a>
 
 </div>
 
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4c1d95,50:312e81,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⚔️&fontSize=28&fontColor=c4b5fd&animation=fadeIn" width="100%" />
