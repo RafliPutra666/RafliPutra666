@@ -14,15 +14,29 @@
 
 <br/>
 
-<img align="right" height="170" src="https://i.pinimg.com/736x/6c/b9/1d/6cb91d75f1c513e7c07a7a0cef1ff51b.jpg" style="border-radius: 12px; margin-left: 15px;" />
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="600" valign="top" style="background-color: #1a1b27; border: 1px solid #414868; border-radius: 12px; padding: 20px; color: #a9b1d6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        <h3 style="color: #7aa2f7; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+          🚀 About Me
+        </h3>
+        <p style="line-height: 1.6; color: #c0caf5;">
+          Hello! I am a passionate <strong>Full-Stack Developer</strong> from Indonesia. I love building clean, scalable, and efficient web applications. Continuously learning new technologies and sharpening my skills every day.
+        </p>
+        <ul style="padding-left: 20px; color: #9ece6a; line-height: 1.6;">
+          <li>🛠️ <span style="color: #c0caf5;">Currently working with modern JavaScript/TypeScript ecosystems.</span></li>
+          <li>⚡ <span style="color: #c0caf5;">Fun fact: Love coding with a clean and dark theme setup.</span></li>
+        </ul>
+      </td>
+      <td width="20"></td>
+      <td valign="top">
+        <img height="185" src="https://i.pinimg.com/736x/6c/b9/1d/6cb91d75f1c513e7c07a7a0cef1ff51b.jpg" style="border-radius: 12px; border: 2px solid #7aa2f7; object-fit: cover;" alt="Toji Fushiguro" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🚀 About Me
-Hello! I am a passionate Full-Stack Developer from Indonesia. I love building clean, scalable, and efficient web applications. Continuously learning new technologies and sharpening my skills every day.
-
-- 🛠️ Currently working with modern JavaScript/TypeScript ecosystems.
-- ⚡ Fun fact: Love coding with a clean and dark theme setup.
-
-<br clear="right" />
 <br/>
 
 ---
