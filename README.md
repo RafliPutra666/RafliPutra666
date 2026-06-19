@@ -46,7 +46,7 @@ const rafliPutra = {
 <br/>
 
 <img
-  src="https://id.pinterest.com/pin/76279787434671722"
+  src="https://github.com/RafliPutra666/RafliPutra666/blob/main/Toji%20Fushiguro%20Heavenly%20Restriction%20_%20Sorcerer%20Killer%20HDR_Toji%20Scar%20Smirk%20_%20Hidden%20Inventory%20Assassin%204K.jpg"
   alt="RafliPutra666"
   width="230"
   style="border-radius:16px; border: 2px solid #6d28d9; box-shadow: 0 0 20px #7c3aed;"
